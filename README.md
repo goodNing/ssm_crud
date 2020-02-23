@@ -28,6 +28,7 @@
 4.通过ajax请求来异步访问后端，后端传递json数据给前台js解析直接显示在页面上，对客户端更为友好
 
 # 大致流程：
-
+![image](https://github.com/goodNing/ssm_crud/blob/master/procedure.png)
 
 # 展示：
+![image](https://github.com/goodNing/ssm_crud/blob/master/show.png)
